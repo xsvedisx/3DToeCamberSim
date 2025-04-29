@@ -23,7 +23,7 @@ A minimal .NET 9 minimal‐API + React/Vite + Three.js 3D toe & camber front whe
 ## Install & Run
 
 ```bash
-git clone https://github.com/your-username/car-alignment-sim.git
+git clone https://github.com/xsvedisx/3DToeCamberSim
 ```
 
 ### Run the minimal API
