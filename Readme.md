@@ -55,3 +55,5 @@ The ports have been forced in the project. If you need to modify these.
 
 - Go to 3DToeCamberSim/CarsApi/Program.cs → line 6
 - Go to 3DToeCamberSim/CarAlignmentSim/.env → line 1
+- Go to 3DToeCamberSim/CarAlignmentSim/src/api.js → line 2
+- Go to 3DToeCamberSim/CarAlignmentSim/vite.config.js → line 7
