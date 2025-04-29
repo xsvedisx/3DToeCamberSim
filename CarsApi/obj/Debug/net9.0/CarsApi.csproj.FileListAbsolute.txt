@@ -31,3 +31,4 @@ C:\Users\Henri\OneDrive\Skrivbord\projects\sim\CarsApi\obj\Debug\net9.0\refint\C
 C:\Users\Henri\OneDrive\Skrivbord\projects\sim\CarsApi\obj\Debug\net9.0\CarsApi.pdb
 C:\Users\Henri\OneDrive\Skrivbord\projects\sim\CarsApi\obj\Debug\net9.0\CarsApi.genruntimeconfig.cache
 C:\Users\Henri\OneDrive\Skrivbord\projects\sim\CarsApi\obj\Debug\net9.0\ref\CarsApi.dll
+C:\Users\Henri\OneDrive\Skrivbord\projects\sim\CarsApi\obj\Debug\net9.0\CarsApi.sourcelink.json
