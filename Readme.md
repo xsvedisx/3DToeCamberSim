@@ -29,7 +29,7 @@ git clone https://github.com/xsvedisx/3DToeCamberSim
 ### Run the minimal API
 
 ```bash
-cd sim/CarsApi
+cd 3DToeCamberSim/CarsApi
 dotnet run
 ```
 
