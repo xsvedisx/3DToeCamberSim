@@ -1,18 +1,18 @@
 # C#
-sim/CarsApi/bin/
-sim/CarsApi/obj/
-sim/CarsApi/.vs/
-sim/CarsApi/Properties/launchSettings.json
-sim/CarsApi/Properties*
+CarsApi/bin/
+CarsApi/obj/
+CarsApi/.vs/
+CarsApi/Properties/launchSettings.json
+CarsApi/Properties*
 
 # Tests
-sim/CarsApi.Tests/bin/
-sim/CarsApi.Tests/obj/
+CarsApi.Tests/bin/
+CarsApi.Tests/obj/
 
 # React
-sim/CarAlignmentSim/node_modules/
-sim/CarAlignmentSim/dist/
-sim/CarAlignmentSim/.vite/
+CarAlignmentSim/node_modules/
+CarAlignmentSim/dist/
+CarAlignmentSim/.vite/
 
 # IDE
 .vscode/
