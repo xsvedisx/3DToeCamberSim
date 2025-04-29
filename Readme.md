@@ -34,7 +34,7 @@ dotnet run
 ### Run the React frontend (second terminal)
 
 ```bash
-cd sim/CarAlignmentSim
+cd 3DToeCamberSim/CarAlignmentSim
 npm install
 npm run dev
 ```
@@ -42,7 +42,7 @@ npm run dev
 ### Run the backend tests
 
 ```bash
-cd sim/CarsApi.Tests
+cd 3DToeCamberSim/CarsApi.Tests
 dotnet test
 ```
 
@@ -50,5 +50,5 @@ dotnet test
 
 The ports have been forced in the project. If you need to modify these.
 
-- Go to sim/CarsApi/Program.cs → line 6
-- Go to sim/CarAlignmentSim/.env → line 1
+- Go to 3DToeCamberSim/CarsApi/Program.cs → line 6
+- Go to 3DToeCamberSim/CarAlignmentSim/.env → line 1
