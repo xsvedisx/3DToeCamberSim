@@ -10,6 +10,7 @@ A minimal .NET 9 minimal‐API + React/Vite + Three.js 3D toe & camber front whe
 - Green/orange/red feedback shows how far off you are from the optimal values.
 - Switch between 3D camera views or rotate manually (click and drag within canvas).
 - Add and delete cars.
+- Responsive design (desktop & mobile)
 
 ---
 
