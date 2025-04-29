@@ -31,7 +31,7 @@ cd sim/CarsApi
 dotnet run
 ```
 
-### Run the React frontend
+### Run the React frontend (second terminal)
 
 ```bash
 cd sim/CarAlignmentSim
